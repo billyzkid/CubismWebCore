@@ -1,0 +1,5 @@
+# Excluded files
+.vscode/*
+
+# Unexcluded files
+!/.vscode/*.json

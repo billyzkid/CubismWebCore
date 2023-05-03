@@ -1,3 +1,7 @@
+# Excluded folders
+node_modules/
+dist/
+
 # Excluded files
 .vscode/*
 
